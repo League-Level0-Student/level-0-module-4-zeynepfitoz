@@ -7,7 +7,7 @@ public static void main(String[] args) {
 		
 		System.out.println(i+" "+"potato");
 		}
-		else if() {
+		else if(i==) {
 			System.out.println("4");
 
 		}
